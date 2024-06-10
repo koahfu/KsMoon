@@ -1,1 +1,1 @@
-==KsMoon is a common app (MediaPlayer)==
+# KsMoon is a common app (MediaPlayer)
